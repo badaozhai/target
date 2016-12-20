@@ -1,0 +1,11 @@
+
+wbdriver.jar
+archive-tmp
+aaa.png
+a.png
+*.txt
+classes/
+maven-archiver/
+maven-status/
+phantomjsdriver.log
+test-classes/

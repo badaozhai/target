@@ -1,0 +1,8 @@
+{
+    "server":"192.168.1.101",
+    "server_port":8888,
+    "local_port":1080,
+    "password":"helloworld",
+    "method": "aes-128-cfb-auth",
+    "timeout":600
+}
